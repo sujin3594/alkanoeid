@@ -1,5 +1,6 @@
 // Arkanoid (벽돌깨기) 게임 - 하나의 JS 파일로 구현
 // index.html에서 <canvas id="gameCanvas"></canvas>와 함께 사용하세요.
+// q배포
 
 const canvas = document.getElementById("gameCanvas");
 const ctx = canvas.getContext("2d");
